@@ -1,0 +1,13 @@
+{
+	"name": "streambuffer",
+	"version": "0.0.0",
+	"description": "mirrors a stream, collects all chunks floating by and calls a callback once it's done",
+	"author": "Felix Boehm <me@feedic.com>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/fb55/node-streambuffer.git"
+	},
+	"dependencies": {
+		"mirrorstream": "0"
+	}
+}
